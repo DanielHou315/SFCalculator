@@ -1,0 +1,3 @@
+([('SFCalculator',
+   '/Users/danielhou/Documents/code/sig_fig_calculator/dist/SFCalculator',
+   'EXECUTABLE')],)
